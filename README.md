@@ -1,5 +1,9 @@
 Olá! 👋
 
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/caiovgo)
+
+![Caio Oliveira Tech GitHub stats](https://github-readme-stats.vercel.app/api?username=caiooliveira-tech&show_icons=true&theme=dracula&count_private=true)
 <!--
 **caiooliveira-tech/caiooliveira-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
